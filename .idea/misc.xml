@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/background_button.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/background_button_send_message.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/background_edittext.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/ic_call.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/ic_call_and_sms.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/ic_call_icon.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/ic_menu_dots.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/drawable/ic_sms.xml" value="0.2703125" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/layout/activity_sms.xml" value="0.264" />
+        <entry key="..\:/Programming/PDP/Projects/AndroidDBLesson4Permission/app/src/main/res/layout/item_contact.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
